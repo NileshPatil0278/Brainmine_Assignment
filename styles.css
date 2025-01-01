@@ -86,3 +86,28 @@ button:hover {
     margin-top: 5px;
     display: none;
 }
+
+a {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: 16px; 
+    color: #ffffff; 
+    background-color:  #009E60; 
+    text-decoration: none;
+    border-radius: 5px; /
+    border: 1px solid #0056b3; 
+    transition: all 0.3s ease;
+    cursor: pointer; 
+}
+
+a:hover {
+    background-color: #0056b3; 
+    border-color: #003f7f;
+}
+
+a:active {
+    background-color: #003f7f; 
+    border-color: #002d5f;
+}

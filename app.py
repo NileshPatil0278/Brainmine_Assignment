@@ -52,7 +52,7 @@ def display():
     cursor.close()
     connection.close()
 
-    return render_template('display.html', user_info=rows)
+    return jsonify(rows)
 
 if __name__ == '__main__':
     app.run(debug=True)
