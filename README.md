@@ -5,6 +5,8 @@ This Assignment is a simple web application designed to collect basic user infor
 - A backend API developed in Python to handle form submissions, sanitize input data, and interact with the database.
 - A separate page to display all stored user data in a readable format.
 
+  Demo Video - https://drive.google.com/file/d/1qxXIOvKKR-wXjLsiHqAx61X5AXE7-4WJ/view?usp=sharing
+
 ---
 
 ## Features
