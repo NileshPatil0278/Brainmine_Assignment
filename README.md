@@ -36,6 +36,8 @@ This Assignment is a simple web application designed to collect basic user infor
    - Displays all stored user data in a tabular format.
 ![image](https://github.com/user-attachments/assets/fc99bd6d-2f7a-4dfa-8ecb-7046c30e9397)
 ![image](https://github.com/user-attachments/assets/b2514361-5393-4a08-a87b-6daaad88f5b9)
+![image](https://github.com/user-attachments/assets/2fa227db-50a0-49e5-91e7-fa38020093c8)
+
 ## Usage
 1. Fill in the user information form and submit the data.
 2. If all validations pass, the data is sent to the backend and stored in the database.
